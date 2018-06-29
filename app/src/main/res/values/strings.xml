@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragmentexample</string>
+
+    <string-array name="mydata">
+        <item name ="A">a</item>
+        <item name ="B">b</item>
+        <item name ="C">c</item>
+        <item name ="D">d</item>
+    </string-array>
+
+</resources>
